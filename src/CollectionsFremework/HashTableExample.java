@@ -19,7 +19,7 @@ public class HashTableExample {
 		t.put(3, "Rahul");
 		t.put(4, "Dhoni");
 //		t.put(null, "vasu");// null values aither key or values not allowed in the Hashtable it will throw the null pointeer Exception
-		t.put(null, "varun");
+		
 		
 		
 		System.out.println(t);

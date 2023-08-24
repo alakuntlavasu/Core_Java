@@ -6,10 +6,19 @@ public class Test {
 		 System.out.println("program start");
 		 int fnumber=8;
 		 int snumber=0;
-		 int result;
-		  
-			  result=fnumber/snumber;
+		 int result=0;
 		 
+		   try {
+			   result=fnumber/snumber;
+	        }
+		   
+		   catch(ArithmeticException e) {
+		   System.out.println(e.toString());
+			   
+		   }
+		 finally {
+			 System.out.println("hello");
+		 }
 		  
 		 System.out.println("output is:"+result);
 		 System.out.println("Alakuntla Vasu");
