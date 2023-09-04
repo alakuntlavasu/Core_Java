@@ -23,6 +23,7 @@ public class Book {
 	
 	public static void main(String[] args) {
 		
+		// Assinging the values to class variables using method
 		Book b1=new Book();
 		     b1.setBookData(2, "computer", 100);
 		     b1.display();

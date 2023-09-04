@@ -30,7 +30,7 @@ public class Student
 		  Student s1=new Student(101, "vasu", 4);
 		          s1.display();
 		  
-		  Student s2=new Student(105, "varun Taj", 7);
+		  Student s2=new Student(105, "varun Taj", 10);
 		          s2.display();
 	}
 
