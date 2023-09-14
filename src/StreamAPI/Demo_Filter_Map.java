@@ -43,10 +43,11 @@ public class Demo_Filter_Map {
 				new Employe(105,"shafi",29000)
 				);
 		  // compare with filter and Map
-//            List<Integer>employeeSalList= emList.stream().filter(e->e.esalary>20000).map(e->e.esalary).collect(Collectors.toList());
-//            
-//            
-          System.out.println(emList.toArray()[0]);
+            List<Integer>employeeSalList= emList.stream().filter(e->e.esalary>20000).map(e->e.esalary).collect(Collectors.toList());
+            
+            
+          System.out.println(emList);
+		
 		
 		
 	}

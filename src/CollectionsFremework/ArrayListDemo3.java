@@ -17,6 +17,7 @@ public class ArrayListDemo3 {
 		st.add("vasu");
 		st.add("naveen");
 		st.add("Rajesh");
+		st.add("varun Taj");
 		
 		System.out.println(st);
 	}
