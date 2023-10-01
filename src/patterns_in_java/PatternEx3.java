@@ -1,11 +1,12 @@
 package patterns_in_java;
 
-public class patternEx3 {
+public class PatternEx3 {
 
 	public static void main(String[] args) {
 	
 		
 		int count=0;
+		
 		for(int i=1;i<=5;i++)
 		{
 			for(int j=1;j<=5;j++) 
@@ -16,12 +17,15 @@ public class patternEx3 {
 			System.out.println(" ");
 		}
 	}
+	
+	
+	// out put
+			01 02 03 04 05  
+			06 07 08 09 10  
+			11 12 13 14 15  
+			16 17 18 19 20  
+			21 22 23 24 25 
 
 }
-// out put
-		01 02 03 04 05  
-		06 07 08 09 10  
-		11 12 13 14 15  
-		16 17 18 19 20  
-		21 22 23 24 25  
+ 
 
