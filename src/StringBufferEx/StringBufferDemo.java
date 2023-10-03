@@ -7,6 +7,7 @@ public class StringBufferDemo {
 		StringBuffer sb=new StringBuffer(50);
 		
 		System.out.println(sb.capacity());
+		System.out.println("Buffer object");
 
 	}
 
