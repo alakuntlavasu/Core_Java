@@ -15,6 +15,8 @@ public class JdbcEx {
 		
 		// Establish the connection
 		 Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/fruits", "root", "root");
+		
+		
 		 
 		 String sql="create table Afruit(Afid int,Afname varchar(54),Afprice int)";
 		 
@@ -24,7 +26,7 @@ public class JdbcEx {
 		   
 		   System.out.println("Table is ceated");
 		   System.out.println("Table is created succesfully");
-		   
+		   System.out.println("Table is created succesfully");
 		   con.close();
 
 	}
