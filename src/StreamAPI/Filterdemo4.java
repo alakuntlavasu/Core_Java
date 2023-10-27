@@ -1,5 +1,6 @@
 package StreamAPI;
 import java.util.*;
+
 class Products{
 	int id;
 	String name;

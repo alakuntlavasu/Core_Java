@@ -18,6 +18,7 @@ public class HashMapDemo1 {
 		emp.put(103, "suhasini");
 		
 		System.out.println(emp);
+		System.out.println(emp);
 		
 		System.out.println(emp.get(107));// get the the value with healp of key
 		
