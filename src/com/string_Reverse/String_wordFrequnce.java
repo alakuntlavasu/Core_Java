@@ -23,6 +23,7 @@ public class String_wordFrequnce {
 		 }
 		 
 		 System.out.println("number of words in a string:"+count);
+		 System.out.println("counting numbers");
 	}
 	
 
