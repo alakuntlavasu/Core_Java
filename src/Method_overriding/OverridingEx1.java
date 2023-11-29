@@ -39,6 +39,7 @@ public class OverridingEx1 {
 		
 		SBI sbiobj=new SBI();
 		    System.out.println(sbiobj.getRateOfintrest());
+		    System.out.println("overriding");
 		
 
 
