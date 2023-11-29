@@ -31,6 +31,7 @@ public class String_Reverse {
 		StringBuffer sb= new StringBuffer(str);
 		
 		System.out.println(sb.reverse());
+		System.out.println("Approach 3");
 
 	}
 
