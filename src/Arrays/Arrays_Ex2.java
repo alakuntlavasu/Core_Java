@@ -7,6 +7,7 @@ public class Arrays_Ex2 {
         System.out.println(enames[0]);
         System.out.println(enames[1]);
         System.out.println(enames[2]);
+//        System.out.println(enames.length);
         System.out.println(enames.length);
      
     }
