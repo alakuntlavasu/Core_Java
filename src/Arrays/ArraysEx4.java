@@ -29,8 +29,10 @@ public class ArraysEx4 {
 	for(int x:B) 
 	{
 		System.out.println(x);
+		
 	}
-
+     System.out.println("read each ");
+     System.out.println("read each");
 	}
 
 }
