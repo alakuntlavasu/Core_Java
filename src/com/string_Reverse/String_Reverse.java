@@ -5,6 +5,7 @@ public class String_Reverse {
 	public static void main(String[] args) {
 	  
 		String str="AlakuntlaVasu";
+	
 		
 		// Approach-1
 		char[] chArr= str.toCharArray();
