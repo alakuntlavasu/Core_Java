@@ -23,6 +23,7 @@ public class OverridingEx2 {
 		Child object=new Child();
 		
 		object.Wish();
+		System.out.println("overriding");
 	
        
 	}
