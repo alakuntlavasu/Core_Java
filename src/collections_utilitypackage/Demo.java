@@ -10,11 +10,7 @@ public class Demo {
      List<Integer> al=new ArrayList<Integer>();
      
      al.add(2000);
-     al.add(45);
-     al.add(35);
-     al.add(23);
-     
-     System.out.println(al);
+   
 	}
 
 }
