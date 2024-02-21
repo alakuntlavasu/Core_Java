@@ -21,7 +21,7 @@ public class Demo
 		 System.out.println(d.lname);
 		 System.out.println(d.roll);
 		 
-	 d.Fname="vasi";
+	 d.Fname="vasu";
 	 d.lname="Alakuntla";
 	 d.roll=03;
 	 
