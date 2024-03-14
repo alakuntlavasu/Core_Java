@@ -5,10 +5,11 @@ public class DemoStatic {
 		System.out.println("fssws");
 	}
 	public DemoStatic() {
-	
+
 		System.out.println("afgl");
 	}
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		DemoStatic s=new DemoStatic();
 	}
 
